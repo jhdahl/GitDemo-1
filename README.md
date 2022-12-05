@@ -7,7 +7,7 @@ This is a sample repository / sample app for the Git course.
  * This change made by GitHub Desktop
  * This change made by GitKraken
 
-## How To Work With Git
+## How To Work With Git Steps
 1. git checkout main
 2. git pull
 3. git checkout -b bug-00-branch-name
